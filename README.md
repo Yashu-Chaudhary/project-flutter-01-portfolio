@@ -1,5 +1,8 @@
 # my_portfolio_app
 
+![portfolio](https://github.com/Yashu-Chaudhary/project-flutter-01-portfolio/assets/137476521/898786e1-2041-4dd9-84f8-88e4d5b451c3)
+
+
 A new Flutter project.
 
 ## Getting Started
